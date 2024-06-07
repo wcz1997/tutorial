@@ -51,4 +51,5 @@ go mod tidy
 screen -S evm -d -m /bin/bash ./scripts/local-start.sh
 
 echo "Setup script executed successfully. You can now run the second script."
-EOF
+EOF```
+## 2. 创建 `create_wallet.sh`
